@@ -1,0 +1,14 @@
+.auth-container {
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    max-height: auto;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
